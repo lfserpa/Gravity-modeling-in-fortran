@@ -1,1 +1,5 @@
 /temp
+*.o
+errors
+log
+main.exe
