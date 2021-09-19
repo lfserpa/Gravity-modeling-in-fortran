@@ -1,8 +1,0 @@
-{
-    "project_name": "Test Project 1",
-    "ambient_field": 0.55,
-    "inclination": 65.0,
-    "units": "km",
-    "azimuth": 0.0,
-    "modeling_mode": "gravity"
-}

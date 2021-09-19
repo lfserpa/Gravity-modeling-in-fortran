@@ -1,4 +1,4 @@
-from gm import GMModel
+from gmm.gm import GMModel
 import tkinter as tk
 from tkinter import filedialog
 
