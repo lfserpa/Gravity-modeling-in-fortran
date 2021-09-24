@@ -1,0 +1,13 @@
+{
+    "project_name": "Test Project 1",
+    "ambient_field": 0.55,
+    "inclination": 65.0,
+    "units": "km",
+    "azimuth": 0.0,
+    "modeling_mode": "gravity",
+    "profile_identification": "test_profile",
+    "num_poly": 6,
+    "distance_units": "km",
+    "obs_agreement_station": 1,
+    "number_of_stations": 67
+}
